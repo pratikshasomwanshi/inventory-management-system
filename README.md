@@ -2,7 +2,7 @@
 # 📦 Inventory Management System
 
 A full-stack inventory app built with:
-- React + Tailwind frontend
+- React(Vite + JS + Tailwind) frontend
 - Node.js + Express backend
 - MongoDB database
 
