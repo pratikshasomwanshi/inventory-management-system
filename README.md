@@ -7,7 +7,7 @@ A full-stack inventory app built with:
 - MongoDB database
 
 ### Live Demo
-Frontend: https://your-username.github.io/inventory-management-system  
+Frontend: https://github.com/pratikshasomwanshi/inventory-management-system.git 
 Backend API: https://inventory-backend.onrender.com  
 
 ### Setup
