@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 📦 Inventory Management System
 
 A full-stack inventory app built with:
