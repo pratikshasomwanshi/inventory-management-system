@@ -7,8 +7,9 @@ A full-stack inventory app built with:
 - MongoDB database
 
 ### Live Demo
-Frontend: https://github.com/pratikshasomwanshi/inventory-management-system.git 
-Backend API: https://inventory-backend.onrender.com  
+Frontend: http://localhost:5173/
+
+Backend API:  http://localhost:8000
 
 ### Setup
 1. `cd backend && npm install`
