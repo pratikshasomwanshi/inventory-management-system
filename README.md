@@ -6,11 +6,6 @@ A full-stack inventory app built with:
 - Node.js + Express backend
 - MongoDB database
 
-### Live Demo
-Frontend: http://localhost:5173/
-
-Backend API:  http://localhost:8000
-
 ### Setup
 1. `cd backend && npm install`
 2. `cd frontend && npm install`
